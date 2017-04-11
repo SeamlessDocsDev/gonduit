@@ -1,9 +1,9 @@
 package gonduit
 
 import (
-	"github.com/etcinit/gonduit/entities"
-	"github.com/etcinit/gonduit/requests"
-	"github.com/etcinit/gonduit/responses"
+	"github.com/seamlessdocsdev/gonduit/entities"
+	"github.com/seamlessdocsdev/gonduit/requests"
+	"github.com/seamlessdocsdev/gonduit/responses"
 )
 
 // ManiphestQuery performs a call to maniphest.query.

@@ -1,6 +1,6 @@
 package entities
 
-import "github.com/etcinit/gonduit/util"
+import "github.com/seamlessdocsdev/gonduit/util"
 
 // Project represents a single Phabricator Project.
 type Project struct {

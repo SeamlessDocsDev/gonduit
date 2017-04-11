@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/etcinit/gonduit/core"
-	"github.com/etcinit/gonduit/entities"
-	"github.com/etcinit/gonduit/requests"
-	"github.com/etcinit/gonduit/responses"
+	"github.com/seamlessdocsdev/gonduit/core"
+	"github.com/seamlessdocsdev/gonduit/entities"
+	"github.com/seamlessdocsdev/gonduit/requests"
+	"github.com/seamlessdocsdev/gonduit/responses"
 )
 
 // Conn is a connection to the conduit API.

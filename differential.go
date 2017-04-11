@@ -1,8 +1,8 @@
 package gonduit
 
 import (
-	"github.com/etcinit/gonduit/requests"
-	"github.com/etcinit/gonduit/responses"
+	"github.com/seamlessdocsdev/gonduit/requests"
+	"github.com/seamlessdocsdev/gonduit/responses"
 )
 
 // DifferentialQuery performs a call to differential.query.
